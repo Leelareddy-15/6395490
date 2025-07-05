@@ -1,7 +1,7 @@
 package com.library.repository;
 
 public class BookRepository {
-	public void saveBook(String bookName) {
+	public void save(String bookName) {
         System.out.println("Book saved: " + bookName);
     }
 
